@@ -61,3 +61,7 @@ core.sharedrepository=on
 user.name=abv
 
     The values following the equals sign in variable assign are all either a string, an integer, or a boolean. Boolean values may be given as yes/no, 1/0, true/false or on/off. Case is not significant in boolean values, when converting value to the canonical form using --bool type specifier; git config will ensure that the output is "true" or "false". http://git-scm.com/docs/git-config/1.8.1.5
+
+	
+	#Today is 2016.06.01
+	just test
